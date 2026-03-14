@@ -11,7 +11,7 @@ Monitor and control your Bosch eBike directly from Home Assistant! Track battery
 >
 > - **ConnectModule** hardware installed on your bike (sold separately, ~€100-150)
 > - **Bosch eBike Flow+** subscription (~€30-50/year)
-> - **Bosch eBike Flow** app (Gen 4 systems)
+> - **Bosch eBike Flow** app (Gen 4 and up)
 >
 > **This will NOT work with older Bosch eBike Connect app (Gen 3 and below).**
 
@@ -47,7 +47,7 @@ Monitor and control your Bosch eBike directly from Home Assistant! Track battery
 
 ### ⚠️ **READ THIS FIRST - Additional Hardware & Costs Required**
 
-This integration is **ONLY** for bikes using the **Bosch eBike Flow** system (Gen 4). It will **NOT** work with the older Bosch eBike Connect app (Gen 3 and below).
+This integration is **ONLY** for bikes using the **Bosch eBike Flow** system (Gen 4 and up). It will **NOT** work with the older Bosch eBike Connect app (Gen 3 and below).
 
 #### Required Hardware (Additional Purchase)
 
