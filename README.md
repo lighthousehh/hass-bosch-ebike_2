@@ -1,4 +1,5 @@
 # Bosch eBike Flow Integration for Home Assistant
+I forked it, because of parallel usage of two bosch_ebike integrations
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub release](https://img.shields.io/github/release/Phil-Barker/hass-bosch-ebike.svg)](https://github.com/Phil-Barker/hass-bosch-ebike/releases)
